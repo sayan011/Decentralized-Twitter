@@ -17,6 +17,7 @@ const Home = () => {
   };
   return (
     <>
+      <div className="pageIdentity"> Home</div>
       <div className="mainContent">
         <div className="profileTweet">
           <img src={defaultImgs[0]} className="profilePic"></img>
